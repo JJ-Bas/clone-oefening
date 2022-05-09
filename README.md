@@ -1,8 +1,15 @@
 # Opdrachtbeschrijving
 
-Tijd om te experimenteren met de kracht van pseudo-elementen. Je gaat onderstaande webpagina van een aantal handige trucjes voorzien.
+Tijd om te experimenteren met de kracht van pseudo-elementen. Je gaat onderstaande webpagina van een aantal handige trucjes voorzien:
 
 ![Screenshot](./assets/screenshot.png)
+
+Je kunt deze opdracht maken door het project te clonen of te downloaden naar jouw eigen computer via [deze](https://github.com/hogeschoolnovi/frontend-css-pseudo-tooltip) GitHub repository. De uitwerkingen staan op de branch *uitwerkingen*. Wanneer je liever handmatig een eigen project opzet, mag dit ook. Zorg dan dat je [deze](https://github.com/hogeschoolnovi/frontend-css-pseudo-tooltip/blob/master/index.html) HTML in jouw HTML-bestand plaatst en [deze]() stijlregels in jouw CSS-bestand.
+
+Het project bevat de volgende bestanden:
+
+- `index.html` met daarin de tekst en elementen die je zult gaan voorzien van styling;
+- `styles.css`: dit bestand bevat een aantal stijlregels. Verander hier niets aan. Bovenaan het bestand kun jij jouw eigen CSS invoegen. 
 
 Bestudeer eerst de opbouw van het HTML-document goed voordat je aan de slag gaat. Let op: Je mag niets veranderen in de HTML behalve het eventueel toevoegen van `class`- of `id`-attributen.
 
